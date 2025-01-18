@@ -26,6 +26,7 @@ distribution of usage between members (55%) and casual riders (45%). However, do
 exclusively by casual users, totalling 75,740 rides during the quarter.
 
 ![](https://github.com/Paradoxxi/Raphael_Portfolio/blob/2166d01e61ff48fab3df4f92e95b2f202a213eb5/Screenshot%202024-12-26%20140949.png)
+
 Fig. 1. Pie chart showing the distribution of bike usage by type. This chart illustrates the proportion of classic, electric, and docked bikes used during the observed period.
 
 ### 3.2 Usage Trends Over Time
