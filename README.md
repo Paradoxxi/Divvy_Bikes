@@ -34,9 +34,9 @@ average daily usage dropping to 3,172 for members and 2,818 for casual users. Pe
 period include May 1, 2, 16, 22, and 30, primarily driven by increased activity from casual riders. Members
 showed smaller increases on these peak days, indicating a stronger influence of casual riders on usage spikes.
 
-Fig. 2. Line chart showing the number of bike rentals from April to June. This chart tracks the daily rental count over the
+![](https://github.com/Paradoxxi/Raphael_Portfolio/blob/36c7e73ae5bdb70a9cc8315b3eab874958d91297/Screenshot%202024-12-26%20141040.png)
 
-three-month period, highlighting trends and fluctuations in usage.
+Fig. 2. Line chart showing the number of bike rentals from April to June. This chart tracks the daily rental count over the three-month period, highlighting trends and fluctuations in usage.
 
 ### 3.3 Hourly Usage Patterns
 Member usage peaked during traditional commuting hours, particularly between 7:00–9:00 AM and 5:00–7:00
@@ -45,7 +45,7 @@ rentals per minute was sustained throughout the day. Casual riders followed a di
 activity during the morning rush hour. Instead, their usage gradually increased, peaking at midday with similar
 activity levels of 500 rentals per minute.
 
-![](https://github.com/Paradoxxi/Raphael_Portfolio/blob/36c7e73ae5bdb70a9cc8315b3eab874958d91297/Screenshot%202024-12-26%20141040.png)
+
 
 Fig. 3. Line chart showing the hourly distribution of bike rentals throughout the day. This chart illustrates the number of bike rentals at each hour, identifying peak usage times.
 
