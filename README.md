@@ -78,6 +78,7 @@ Appendix A: Data Cleaning Steps The following data cleaning steps were performed
 column.
 • Handled missing values: Rows with missing critical data points (e.g., “End Station ID”) were removed,
 while missing less important values were imputed.
+
 Appendix B: Tools used included:
 • MySQL: For data extraction, involving SQL queries to filter, aggregate and data cleaning.
 • Microsoft Power BI: Used to generate insight through visuals from the dataset as seen in figure 1, 2, 3
