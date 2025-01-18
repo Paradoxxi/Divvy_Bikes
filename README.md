@@ -1,6 +1,4 @@
-# Raphael_Portfolio
-
-Divvy Bikes Usage Trends: A Q2 2021 Analysis
+# Divvy Bikes Usage Trends: A Q2 2021 Analysis
 
 ## I. Introduction
 This report examines usage patterns of Divvy Bikes, a public bike-sharing system in Chicago, during the second
