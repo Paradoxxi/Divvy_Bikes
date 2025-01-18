@@ -25,6 +25,7 @@ by electric bikes (34.23%) and docked bikes (7.22%). Both classic and electric b
 distribution of usage between members (55%) and casual riders (45%). However, docked bikes were used
 exclusively by casual users, totalling 75,740 rides during the quarter.
 
+![](Screenshot 2024-12-26 140949.png)
 Fig. 1. Pie chart showing the distribution of bike usage by type. This chart illustrates the proportion of classic, electric, and
 
 docked bikes used during the observed period.
