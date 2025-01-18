@@ -45,7 +45,7 @@ rentals per minute was sustained throughout the day. Casual riders followed a di
 activity during the morning rush hour. Instead, their usage gradually increased, peaking at midday with similar
 activity levels of 500 rentals per minute.
 
-
+![](https://github.com/Paradoxxi/Raphael_Portfolio/blob/249034eeb7382cfc14955999e6c055c47e8fdedc/Screenshot%202024-12-26%20141025.png)
 
 Fig. 3. Line chart showing the hourly distribution of bike rentals throughout the day. This chart illustrates the number of bike rentals at each hour, identifying peak usage times.
 
