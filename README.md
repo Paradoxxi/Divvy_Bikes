@@ -73,16 +73,23 @@ riders, such as increasing bike availability near tourist destinations or introd
 boost engagement.
 
 ### V. Appendix
-Appendix A: Data Cleaning Steps The following data cleaning steps were performed:
+#### Appendix A: 
+Data Cleaning Steps The following data cleaning steps were performed:
+
 • Fixed inaccurate data: Corrected inconsistencies in the “Start Station Name” and “Datetime Started At”
 column.
+
 • Handled missing values: Rows with missing critical data points (e.g., “End Station ID”) were removed,
 while missing less important values were imputed.
 
-Appendix B: Tools used included:
+#### Appendix B: 
+Tools used included:
+
 • MySQL: For data extraction, involving SQL queries to filter, aggregate and data cleaning.
+
 • Microsoft Power BI: Used to generate insight through visuals from the dataset as seen in figure 1, 2, 3
 and 4, as well as double checking the dataset with tools such as “Column Distribution” and “Column
 Profile”.
+
 • Dataset Source: Kaggle – Divvy Bikes Database
 (https://www.kaggle.com/datasets/curiel/divvy-bikes-database?select=data.csv)
