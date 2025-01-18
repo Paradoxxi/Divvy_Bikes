@@ -54,9 +54,9 @@ Rental duration patterns revealed that most members completed rides within a sho
 rentals lasting less than 20 minutes. Casual riders tended to use bikes for longer periods, with 80% of their rides
 lasting up to 40 minutes. The median rental duration peaked at 8 minutes, consistent across all user types.
 
-Fig. 4. Line chart showing the duration of bike rides per minute. Casual rider duration peaked at over 50,000 minutes, this
+![](https://github.com/Paradoxxi/Raphael_Portfolio/blob/932281f364510226bfed6c912c883c9e1a38e6c0/Screenshot%202024-12-26%20141006.png)
 
-which appears to be an anomaly, likely caused by bikes not being returned.
+Fig. 4. Line chart showing the duration of bike rides per minute. Casual rider duration peaked at over 50,000 minutes, this which appears to be an anomaly, likely caused by bikes not being returned.
 
 ## IV. Conclusion
 The analysis highlights several key trends in Divvy Bikes usage during Q2 of 2021. Classic bikes emerged as
