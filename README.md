@@ -1,7 +1,5 @@
 # Divvy Bikes Usage Trends: A Q2 2021 Analysis
 
-[movie](https://github.com/RonitMalik/Movie-Recommendation-System-/blob/master/Movie%20Recommendation%20System.ipynb)
-
 ## I. Introduction
 This report examines usage patterns of Divvy Bikes, a public bike-sharing system in Chicago, during the second
 quarter of 2021 (April 1–June 30). The goal of this analysis is to understand trends in bike type preferences, user
